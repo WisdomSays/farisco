@@ -117,7 +117,7 @@ HEADER
 
 .bg-color {
   background-color: rgba(18, 24, 58, 0.8);
-  min-height: 650px;
+  min-height: 100vh;
 }
 
 #main-header {
