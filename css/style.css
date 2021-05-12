@@ -120,6 +120,25 @@ HEADER
   min-height: 100vh;
 }
 
+.button {
+  padding: 0.5rem 2rem;
+  border: 2px #be9e21 solid;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 2rem;
+  display: inline-block;
+  margin: 2rem 0 0;
+  transition: background 500ms ease;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #f4f4f4;
+}
+
+a {
+}
+
 #main-header {
   
 }
