@@ -130,6 +130,7 @@ HEADER
   margin: 2rem 0 0;
   transition: background 500ms ease;
   text-decoration: none;
+  
 }
 
 .button:hover {
